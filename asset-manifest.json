@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Fyp/static/css/main.313c2c17.css",
+    "main.js": "/Fyp/static/js/main.f9536bfd.js",
+    "static/media/video.mp4": "/Fyp/static/media/video.fc8c4d162ab572611a6f.mp4",
+    "static/media/headerbg3.jpg": "/Fyp/static/media/headerbg3.c8597a47b43b5064877b.jpg",
+    "static/media/card2.svg": "/Fyp/static/media/card2.2efc9b91f98cc31b5949ac0d82db0b98.svg",
+    "static/media/card3.svg": "/Fyp/static/media/card3.c78b93fdd3761394e43ddafc1cac4646.svg",
+    "static/media/5.svg": "/Fyp/static/media/5.df3af6932444d7ee31acb14ea009acfe.svg",
+    "static/media/8.svg": "/Fyp/static/media/8.393e3636ccdf5eb393a0c8e9f0b3bcab.svg",
+    "static/media/card1.svg": "/Fyp/static/media/card1.fe624e90ffd3a9e09c2ce9460bd6b050.svg",
+    "static/media/card4.svg": "/Fyp/static/media/card4.2ff700a12539209adb26d6c7f514e73c.svg",
+    "static/media/3.svg": "/Fyp/static/media/3.2ac06161d8dbd46e46490e7d43c74644.svg",
+    "static/media/6.svg": "/Fyp/static/media/6.a61670e7f6481f33a542629149eee045.svg",
+    "static/media/logo2.png": "/Fyp/static/media/logo2.84e26af0b1585b84ff6b.png",
+    "static/media/2.svg": "/Fyp/static/media/2.858cbd12b9176556ca98d6c8f6a56691.svg",
+    "index.html": "/Fyp/index.html",
+    "main.313c2c17.css.map": "/Fyp/static/css/main.313c2c17.css.map",
+    "main.f9536bfd.js.map": "/Fyp/static/js/main.f9536bfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.313c2c17.css",
+    "static/js/main.f9536bfd.js"
+  ]
+}
